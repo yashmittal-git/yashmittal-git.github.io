@@ -1,0 +1,35 @@
+[
+    {
+        "text": "Developed a <b>Functional Monitoring framework</b>, to be utilized by 25+ services to log events on <b>Splunk</b>.",
+        "children": [
+          {
+            "text": "Also, designed a Splunk dashboard to visualize the important KPIs through various graphs and charts."
+          }
+        ]
+      },
+    {
+      "text": "Technical Owner of a framework that detects, identifies and fixes seat discrepancies between systems",
+      "children": [
+        {
+          "text": "Mentoring an Internship to perform <b>Cloud Migration</b> of the tool to <b>Azure</b>"
+        },
+        {
+          "text": "<b>Handled and resolved production outages</b> faced by the framework impacting 30+ customers directly"
+        },
+        {
+          "text": "Developed a tool for monitoring the framework and extracting data for KPIs"
+        }
+      ]
+    },
+    {
+      "text": "Independently facilitated implementation of features and configuration enhancements for 80+ customers",
+      "children": [
+        {
+          "text": "<b>Automated</b> the activity by developing a tool reducing manual efforts by 68%"
+        }
+      ]
+    },
+    {
+        "text": "<b>Code optimization</b> to increase performance by reducing redundancy"
+    }
+  ]  

@@ -1,0 +1,11 @@
+[
+    {
+        "text": "Developed an <b>E2E framework</b>(DIET) that allow experts to define dimensions & come up with a rich data set to recursively create huge test data"
+    },
+    {
+      "text": "Tool accessible through API calls and Angular based UI"
+    },
+    {
+      "text": "Technologies used: Angular, <b>Python/FastAPI, MySQL</b>"
+    }
+]  
