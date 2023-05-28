@@ -103,3 +103,5 @@ function populateListFromJson(jsonFile, listId) {
   populateListFromJson('assets/data/amadeus-sde-1.json', 'amadeus-sde-1-experience');
   populateListFromJson('assets/data/amadeus-sde-intern.json', 'amadeus-sde-intern-experience');
   populateListFromJson('assets/data/summer-intern-eced.json', 'summer-intern-eced-experience');
+  populateListFromJson('assets/data/portfolio-website.json', 'portfolio-website-project');
+  populateListFromJson('assets/data/finance-tracker.json', 'finance-tracker-project');

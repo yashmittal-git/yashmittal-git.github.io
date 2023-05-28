@@ -1,0 +1,27 @@
+[
+    {
+    "text": "Developed a finance tracker application using <b>Python and Flask</b> framework for efficient management of income and expenses.",
+    "children": [
+        {
+        "text": "Implemented <b>CRUD functionality</b> for managing income, expenses, and categories."
+        },
+        {
+        "text": "Implemented user authentication, authorization, and password hashing for secure user accounts."
+        },
+        {
+        "text": "Utilized <b>SQLAlchemy</b> as an Object-Relational Mapping (ORM) tool to interact with the underlying database."
+        }
+      ]    
+    },
+    {
+    "text": "In progress - Designing an intuitive web interface with a dashboard to visualize financial statistics and transaction details.",
+    "children": [
+        {
+          "text": "Interactive charts using <b>Chart.js</b> library for enhanced data visualization."
+        }
+      ]
+    },
+    {
+    "text": "To do - Deploy the project on <b>Azure</b> for scalability and accessibility."
+    }
+]
