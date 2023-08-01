@@ -11,10 +11,10 @@
       "text": "Technical Owner of a framework that detects, identifies and fixes seat discrepancies between systems",
       "children": [
         {
-          "text": "Mentoring an Internship to perform <b>Cloud Migration</b> of the tool to <b>Azure</b>"
+          "text": "Mentored an Internship to perform <b>Cloud Migration</b> of the tool to <b>Azure</b>"
         },
         {
-          "text": "<b>Handled and resolved production outages</b> faced by the framework impacting 30+ customers directly"
+          "text": "<b>Handled and resolved production outages</b> faced by the framework, impacting 30+ customers directly, by developing Python scripts to optimize the NoSQL database."
         },
         {
           "text": "Developed a tool for monitoring the framework and extracting data for KPIs"
