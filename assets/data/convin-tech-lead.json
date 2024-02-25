@@ -1,0 +1,42 @@
+[
+    {
+      "text": "Lead a technical team of 4, ensuring seamless product integration.",
+      "children": [
+        {
+          "text": "Own <b>microservices</b> for client metadata retrieval, schema mapping, and call inflow."
+        },
+        {
+          "text": "Integration Methods: <b>API Poll, Webhook</b>, SFTP, Batch Processes, VPN Auth, On-Prem deployment."
+        }
+      ]
+    },
+    {
+      "text": "Leading <b>architectural initiatives</b> to enhance the core product's performance.",
+      "children": [
+        {
+          "text": "Enhanced <b>robustness and monitoring</b> capabilities through the implementation of <b>daily reports, alerts and automated recovery processes</b>."
+        },
+        {
+            "text": "Implemented innovative <b>blob-storage solutions</b> to address concurrency and space-related challenges in <b>SFTP operations</b>."
+        },
+        {
+            "text": "Ensuring product security through the implementation of <b>industry-leading security practices</b>."
+        },
+        {
+            "text": "Actively involved in the migration of <b>AWS managed services (Lambda, S3) to Oracle Cloud Infrastructure</b> to achieve greater control and <b>cost savings by upto 50%</b>."
+        },
+        {
+          "text": "Exploring alternatives for Dynamo DB and AWS SQS to optimise efficiency."
+        }
+      ]
+    },
+    {
+      "text": "Independently managing <b>pre-sales technical discussions</b> with clients.",
+      "children": [
+        {
+          "text": "Architecting strategic solutions for <b>integrating our product into diverse client product architectures</b>."
+        }
+      ]
+    }
+  ]
+  

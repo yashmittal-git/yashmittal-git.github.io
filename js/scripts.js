@@ -26,9 +26,9 @@
     new Typed('.typed', {
         strings: typed_strings,
         loop: true,
-        typeSpeed: 150,
+        typeSpeed: 100,
         backSpeed: 40,
-        backDelay: 1500
+        backDelay: 800
     });
     }
 
@@ -100,6 +100,7 @@ function populateListFromJson(jsonFile, listId) {
     return listItem;
   }
 
+  populateListFromJson('assets/data/convin-tech-lead.json', 'convin-tech-lead-experience');
   populateListFromJson('assets/data/amadeus-sde-1.json', 'amadeus-sde-1-experience');
   populateListFromJson('assets/data/amadeus-sde-intern.json', 'amadeus-sde-intern-experience');
   populateListFromJson('assets/data/summer-intern-eced.json', 'summer-intern-eced-experience');
