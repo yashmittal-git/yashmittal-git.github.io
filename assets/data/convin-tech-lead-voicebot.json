@@ -1,0 +1,64 @@
+[
+    {
+        "text": "Architected and launched Convin’s <b>real-time Voicebot platform</b>",
+        "children": [
+            {
+                "text": "Achieved <b>sub-second</b> round-trip latency across STT → LLM → TTS → telephony pipelines."
+            },
+            {
+                "text": "Scaled the system to high-volume, multi-tenant production"
+            },
+            {
+                "text": "Grew to <b>300K+ automated calls per day</b> across multiple enterprise deployments."
+            }
+        ]
+    },
+    {
+        "text": "Introduced strong observability and quality controls",
+        "children": [
+            {
+                "text": "Reduced engineering debugging and RCA effort by <b>70%+</b> through metrics, tracing, and failure attribution."
+            }
+        ]
+    },
+    {
+        "text": "Led cost-efficiency initiatives",
+        "children": [
+            {
+                "text": "Delivered <b>~45%</b> TTS/LLM <b>cost reduction</b> without degradation in call quality."
+            }
+        ]
+    },
+    {
+        "text": "Built internal systems that enabled faster tenant onboarding and rollout",
+        "children": [
+            {
+                "text": "Automated configuration and provisioning workflows, reducing manual setup time by 80%."
+            }
+        ]
+    },
+    {
+        "text": "Enhanced the Voicebot’s ability to access customer knowledge",
+        "children": [
+            {
+                "text": "Implemented <b>RAG-based live KB lookup</b> for contextual responses during calls."
+            }
+        ]
+    },
+    {
+        "text": "Delivered secure customer deployments",
+        "children": [
+            {
+                "text": "Successfully executed production and on-prem installations for high-security clients."
+            }
+        ]
+    },
+    {
+        "text": "Mentored and led the team through product delivery",
+        "children": [
+            {
+                "text": "Drove execution priorities, technical decisions, and cross-team alignment."
+            }
+        ]
+    }
+]
